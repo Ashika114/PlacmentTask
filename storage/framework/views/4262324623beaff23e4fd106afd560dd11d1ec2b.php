@@ -1,0 +1,1 @@
+<h1>Welcome HOME PAGE</h1><?php /**PATH D:\MCA_PROJECT_SEM1\PLACMENT\placment\resources\views/mainhome.blade.php ENDPATH**/ ?>
